@@ -1,5 +1,5 @@
 {
-  "name": "ai-schema",
+  "name": "@lxgicstudios/ai-schema",
   "version": "1.0.0",
   "description": "Generate database schemas from plain English descriptions",
   "main": "dist/index.js",
