@@ -15,37 +15,39 @@
     "build": "tsc"
   },
   "keywords": [
+    "2025-standards",
     "agentic",
     "ai",
+    "ai-2025",
     "ai-agent",
+    "ai-powered",
     "anthropic",
     "claude",
     "cli",
     "database",
+    "developer-productivity",
     "developer-tools",
+    "discoverability",
+    "generative-ai",
     "generator",
     "gpt",
-    "llm",
-    "mongodb",
-    "mysql",
-    "openai",
-    "orm",
-    "postgres",
-    "prisma",
+    "llm-optimized",
+    "modern-seo",
+    "performance-optimization",
     "schema",
-    "sql",
-    "typescript",
-    "zero-config"
+    "seo",
+    "seo-2026",
+    "typescript"
   ],
   "author": "LXGIC Studios",
   "license": "MIT",
   "homepage": "https://github.com/LXGIC-Studios/ai-schema#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LXGIC-Studios/ai-schema.git"
+    "url": "https://github.com/LXGIC-Studios/ai-schema"
   },
   "bugs": {
-    "url": "https://github.com/lxgicstudios/ai-schema/issues"
+    "url": "https://github.com/LXGIC-Studios/ai-schema/issues"
   },
   "funding": {
     "type": "github",
