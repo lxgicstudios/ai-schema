@@ -33,6 +33,7 @@
   },
   "homepage": "https://github.com/lxgicstudios/ai-schema#readme",
   "keywords": [
+    "2026-standards",
     "AI-optimized",
     "AI-powered",
     "agentic",
@@ -41,13 +42,12 @@
     "best-practices",
     "cli",
     "developer-tools",
+    "modern-seo",
     "performance",
     "seo-tools",
     "technical-seo",
     "utility",
-    "web-optimization",
-    "2026-standards",
-    "modern-seo"
+    "web-optimization"
   ],
   "license": "MIT",
   "main": "dist/index.js",
