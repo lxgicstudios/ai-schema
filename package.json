@@ -44,7 +44,9 @@
     "seo-audit",
     "site-architecture",
     "structured-data-seo",
-    "technical-seo"
+    "technical-seo",
+    "2026-standards",
+    "modern-seo"
   ],
   "license": "MIT",
   "main": "dist/index.js",
