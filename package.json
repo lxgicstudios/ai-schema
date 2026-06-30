@@ -36,17 +36,9 @@
     "data-modeling",
     "database-design",
     "ddl",
-    "generative-engine-optimization",
-    "geo",
-    "may-2026-core-update",
     "migration",
     "schema",
-    "seo-audit",
-    "site-architecture",
-    "structured-data-seo",
-    "technical-seo",
-    "2026-standards",
-    "modern-seo"
+    "site-architecture"
   ],
   "license": "MIT",
   "main": "dist/index.js",
