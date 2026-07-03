@@ -38,7 +38,9 @@
     "ddl",
     "migration",
     "schema",
-    "site-architecture"
+    "site-architecture",
+    "technical-seo",
+    "seo-audit"
   ],
   "license": "MIT",
   "main": "dist/index.js",
